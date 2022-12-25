@@ -1,3 +1,3 @@
 # Kitepay🪁
 
-<img src="assets/banner.jpeg" />
+<img src="assets/kitepay.gif" />
