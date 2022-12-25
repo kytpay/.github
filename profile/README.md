@@ -1,3 +1,3 @@
 # Kitepay🪁
 
-<img src="assets/kitepay.gif" />
+<img src="https://github.com/kytpay/.github/blob/master/profile/assets/Kitepay.gif" />
